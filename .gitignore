@@ -1,0 +1,41 @@
+# Maven
+target/
+*.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+*.iml
+.idea/
+
+# VS Code
+.vscode/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Spring Boot
+spring-boot-devtools.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build and dependency directories
+node_modules/
+
+# Generated files
+*.log
+*.tmp
+*.bak
+
+# Maven wrapper
+mvnw.cmd
+mvnw
+.gradle/
